@@ -1,0 +1,1 @@
+## Install Kubuntu's 18.04 theme to other Plasma 5 Distros 
